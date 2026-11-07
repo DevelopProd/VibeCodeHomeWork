@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 16px;
+  color: #1f2933;
+  background-color: #f5f1e8;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.card {
+  padding: 16px;
+  margin: 0 0 24px 0;
+  background-color: #ffffff;
+  border: 1px solid #c9d3df;
+}
+
+.error {
+  padding: 8px 12px;
+  margin: 0 0 24px 0;
+  color: #9b1c1c;
+  background-color: #fde8e8;
+  border: 1px solid #f5a3a3;
+}
